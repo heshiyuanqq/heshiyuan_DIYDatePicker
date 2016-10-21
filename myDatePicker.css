@@ -1,0 +1,56 @@
+#tsnhisksdfhirgjrwegvsdgfvsfgsdhfbsdhgfb .btn-blue{
+	background: linear-gradient(#7CA5F5,#1E50D0,#7CA5F5);
+	color: white;
+}
+#tsnhisksdfhirgjrwegvsdgfvsfgsdhfbsdhgfb .btn-gray{
+	background: linear-gradient(#FCFCFC,#E6E6E6,#FCFCFC);
+}
+#tsnhisksdfhirgjrwegvsdgfvsfgsdhfbsdhgfb .btn-darkGray{
+	background: linear-gradient(#E3DEDE,#AAA5A5,#E3DEDE);
+}
+
+#tsnhisksdfhirgjrwegvsdgfvsfgsdhfbsdhgfb .btn-red{
+	background: linear-gradient(#FF6262,#B00000,#FF6262);
+	color: white;
+}
+#tsnhisksdfhirgjrwegvsdgfvsfgsdhfbsdhgfb tr .td_validDay{
+	cursor: pointer;
+}
+
+
+#tsnhisksdfhirgjrwegvsdgfvsfgsdhfbsdhgfb .tr_day{
+	
+	font-size: 10px;
+}
+
+#tsnhisksdfhirgjrwegvsdgfvsfgsdhfbsdhgfb td{
+	width: 30px;
+	height: 20px;
+	text-align: center;
+}
+
+
+#tsnhisksdfhirgjrwegvsdgfvsfgsdhfbsdhgfb .td_preMonth,
+#tsnhisksdfhirgjrwegvsdgfvsfgsdhfbsdhgfb .td_nextMonth,
+#tsnhisksdfhirgjrwegvsdgfvsfgsdhfbsdhgfb .td_lastYear,
+#tsnhisksdfhirgjrwegvsdgfvsfgsdhfbsdhgfb .td_nextYear{
+	cursor: pointer;
+}
+
+
+#tsnhisksdfhirgjrwegvsdgfvsfgsdhfbsdhgfb .border_left_top{
+	border-left: 1px solid black;
+	border-top: 1px solid black;
+}
+
+#tsnhisksdfhirgjrwegvsdgfvsfgsdhfbsdhgfb .border_bottom{
+	border-bottom: 1px solid black;
+}
+
+#tsnhisksdfhirgjrwegvsdgfvsfgsdhfbsdhgfb .border_right{
+	border-right: 1px solid black;
+}
+
+#tsnhisksdfhirgjrwegvsdgfvsfgsdhfbsdhgfb .border_all{
+	border: 1px solid black;
+}
